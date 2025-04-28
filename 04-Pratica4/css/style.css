@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #000000;
+
+    /* System Fonts as used by GitHub */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; 
+}
+
+.header { 
+    align-items: center;
+    background-color: #222335;
+    color: #ff0000;
+    display: flex;
+    justify-content: right;
+    padding: 10px 10px;
+}
+
+.article {
+    background-color: #f3e598;
+    margin: 20px 20px;
+    padding: 20px 20px;
+    border-radius: 10px;
+    box-shadow: rgba(243, 47, 47, 0.699) 0px 1px 4px;
+}
+
+.article-title {
+    margin-bottom: 10px;
+}
