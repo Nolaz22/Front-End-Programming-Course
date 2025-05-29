@@ -1,0 +1,4 @@
+./test.sh
+
+npm run lint
+npm test
